@@ -1,4 +1,5 @@
 # github-flow-practice
 
 I am Uehara
-blood type is O type
+blood type is A type
+
